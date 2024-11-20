@@ -1,0 +1,44 @@
+{
+    "editor.suggestSelection": "first",
+    "window.zoomLevel": -1,
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.fontFamily": "IosevkaTerm Nerd Font Mono",
+    "editor.fontFamily": "IosevkaTerm Nerd Font Mono",
+    "editor.fontLigatures": true,
+    "workbench.editor.enablePreview": false,
+    "vs-kubernetes": {
+        "vs-kubernetes.crd-code-completion": "enabled"
+    },
+    "git.ignoredRepositories": [
+        "/Users/emenylouhichi/.vscode/extensions/stepsize.stepsize-1.0.15/resources/demo-repository"
+    ],
+    "workbench.sideBar.location": "right",
+    "material-icon-theme.folders.theme": "classic",
+    "editor.cursorStyle": "underline",
+    "workbench.startupEditor": "none",
+    "editor.rulers": [
+        {
+            "color": "#6272a4",
+            "column": 80
+        }
+    ],
+    "python.analysis.autoIndent": true,
+    "python.analysis.indexing": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.packageIndexDepths": [
+        {
+            "name": "django",
+            "depth": 20,
+            "includeAllSymbols": true
+        }
+    ],
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.colorTheme": "Dracula Theme",
+    "editor.fontVariations": true,
+    "telemetry.telemetryLevel": "off",
+    "workbench.activityBar.location": "top",
+    "editor.minimap.enabled": false
+
+}
